@@ -2,7 +2,7 @@
 
 <img src="imagen/NexusTitle.png" width="800"/>
 
-### 💻 Protección de código • Seguridad • Ofuscación avanzada
+### 💻 Protección de código • Seguridad • Ofuscación avanzada ( Open Code )
 <br>
 <!-- Línea 1 -->
 <img src="https://img.shields.io/badge/PocketMine-555555?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Ofuscador-00BFFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/NexusTeam-555555?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/by%20zKazen-1E90FF?style=for-the-badge"/>
