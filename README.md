@@ -31,4 +31,6 @@ Después de Esto Tocas El Botón De'' [🐡•Ofuscar]'' Y Tu Código Ahora Esta
 # 
 
 ``Nexus : Network 🪷 | Code by zKazen , Edit @edux_gx ``
+# 
+<img src="imagen/NexusLogoPagina.png" width="50"/>
 </div>
