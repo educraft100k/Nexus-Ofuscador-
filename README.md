@@ -10,7 +10,7 @@
 
 # 🌊 Nexus | Network 
 Nexus (Ofuscador) | Es Una Herramienta Creada Por NexusTeam by zKazen , La Cual Proteje Tu Código Para Evitar Robos Y Tener Mejor Privacidad, Esta Herramienta Es Especial Para Complemtos/plugins Para Minecraft Pocket Edition 0.15.10 [ Pocketmine API 2.0.0 ] 🪽
-
+# 
 <br>
 
 <img src="imagen/NexusPage.png" width="1200"/>
@@ -22,5 +22,13 @@ Nuesta Herramienta Ofrece Un Uso Que Se Hará Fácil Para Cualquier Usuario Que 
 [🌊•PAGINA] https://educraft100k.github.io/Nexus-Ofuscador-/
 Y En La Seción Que Dise " ``Coloca Tu Código Original 🌱`` " . Pues Tal Y Como Dise Solo Pegas Tu Código Original, O El Que Quieres Ofuscar ...
 # Demostración: 🐬
+
 <img src="imagen/NexusPegaCode.png" width="800"/>
+
+# Después: 🎣
+
+Después de Esto Tocas El Botón De'' [🐡•Ofuscar]'' Y Tu Código Ahora Esta Totalmente Protegido, Y Ofuscado Ahora Nadie Te Podra Robar Tu Código, Recuerda Usa Esta Herramienta Para Proteger Tu Código, Cualquier Uso Irresponsable Queda Prohibido [ ``ForceOP, Nuke O Ect``]... Herramienta Sin Fines De Lucro 🪷...
+# 
+
+``Nexus : Network 🪷 | Code by zKazen , Edit @edux_gx ``
 </div>
