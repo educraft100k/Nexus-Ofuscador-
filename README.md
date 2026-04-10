@@ -1,2 +1,5 @@
-# Nexus-Ofuscador-
-Un Ofuscador de codigo &lt;?php , Proteje tu código y evita que la gente robe tu código sin tu permiso...
+<div align="center">
+
+<img src="Nexustitle.png" width="700"/>
+
+</div>
