@@ -20,5 +20,7 @@ Interfaz De La Página...
 Nuesta Herramienta Ofrece Un Uso Que Se Hará Fácil Para Cualquier Usuario Que Quiera Ocupar Nuestro Ofuscador . Como Primer Paso Seria Ingresar A La Página De Esta Herramienta 🌊
 
 [🌊•PAGINA] https://educraft100k.github.io/Nexus-Ofuscador-/
-Y En La Seción Que Dise " ``Coloca Tu Código Original 🌱`` " . Pues Tal Y Como Dise Solo Pegas Tu Código Original, O El Que Quieres Ofuscar 
+Y En La Seción Que Dise " ``Coloca Tu Código Original 🌱`` " . Pues Tal Y Como Dise Solo Pegas Tu Código Original, O El Que Quieres Ofuscar ...
+# Demostración: 🐬
+<img src="imagen/NexusPegaCode.png" width="800"/>
 </div>
