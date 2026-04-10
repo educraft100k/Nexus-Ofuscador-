@@ -32,5 +32,10 @@ Después de Esto Tocas El Botón De'' [🐡•Ofuscar]'' Y Tu Código Ahora Esta
 
 ``Nexus : Network 🪷 | Code by zKazen , Edit @edux_gx ``
 # 
+
+# ATENCIÓN 🚨
+> Si Tu Código Ya Esta ¡ OFUZCADO ! No Se Recomienda Que Lo Vallas A Editar O Modificar Ya Que Puede Generar Crasheos o Problemas Con El Código Al Pocketmine ...
+# 
+# Graficos 🐡
 <img src="imagen/NexusLogoPagina.png" width="50"/>
 </div>
