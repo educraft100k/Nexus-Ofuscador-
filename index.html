@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="theme-color" content="#0a0a0f">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="format-detection" content="telephone=no">
+    <title>PHP Obfuscator</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☠️</text></svg>">
+</head>
+<body>
+    <div class="container">
+
+        <header class="header">
+            <img src="imagen/NexusTitle.png" alt="Nexus Obfuscator" style="max-width: 280px; width: 100%; height: auto; display: block; margin: 0 auto;">
+            <p>Protege tu codigo PHP - by zKazen</p>
+            <span class="badge">NexusTeam (2026)</span>
+        </header>
+
+        <div class="editor-panel">
+            <div class="editor-header">
+                <h3>🪷 | TU CÓDIGO ORIGINAL :</h3>
+            </div>
+            <textarea
+                id="input-code"
+                placeholder="Pega Aquí Tu Código <?php Original Para Ofuzcar"
+                spellcheck="false"
+                autocomplete="off"
+                autocorrect="off"
+                autocapitalize="off"
+                data-gramm="false"
+            ></textarea>
+        </div>
+
+        <div class="editor-panel">
+            <div class="editor-header">
+                <h3>🌱 | Tu  CÓDIGO OFUZCADO :</h3>
+            </div>
+            <textarea
+                id="output-code"
+                placeholder="Aquí Aparecerá Tu Nuevo Código Ofuscado y Seguro"
+                readonly
+                spellcheck="false"
+            ></textarea>
+        </div>
+
+        <div class="actions">
+            <button class="btn btn-primary" id="obfuscate-btn">
+                💻 • OFUZCA YA !
+            </button>
+            <button class="btn btn-secondary" id="copy-btn">
+                🌿 » Copy
+            </button>
+            <button class="btn btn-secondary" id="clear-btn">
+                🗑️ » Delete
+            </button>
+        </div>
+
+        <div class="stats-container">
+            <div class="stats-title">🪻 Estadísticas De Tu Code</div>
+            <div id="stats">
+                <p>Ofusca Algún Código Para Mostrar Su Información</p>
+            </div>
+        </div>
+
+        <footer class="footer">
+            Nexus Obfuscator v1.0 | NexusTeam | @zkazen
+        </footer>
+    </div>
+
+    <script src="js/bundle.js"></script>
+</body>
+</html>
