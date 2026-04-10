@@ -17,5 +17,5 @@ Nexus (Ofuscador) | Es Una Herramienta Creada Por NexusTeam by zKazen , La Cual 
 Interfaz De La Página...
 
 # ¿Como Usar? 💻
-Nuesta Herramienta Ofrece Un Uso Que Se Hará Fácil Para Cualquier Usuario Que Quiera Ocupar Nuestra Herramienta . Como Primer Paso Seria Ingresar A La Página De Esta Herramienta 🌊
+Nuesta Herramienta Ofrece Un Uso Que Se Hará Fácil Para Cualquier Usuario Que Quiera Ocupar Nuestro Ofuscador . Como Primer Paso Seria Ingresar A La Página De Esta Herramienta 🌊
 </div>
