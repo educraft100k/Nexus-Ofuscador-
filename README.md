@@ -30,12 +30,28 @@ Y En La Seción Que Dise " ``Coloca Tu Código Original 🌱`` " . Pues Tal Y Co
 Después de Esto Tocas El Botón De'' [🐡•Ofuscar]'' Y Tu Código Ahora Esta Totalmente Protegido, Y Ofuscado Ahora Nadie Te Podra Robar Tu Código, Recuerda Usa Esta Herramienta Para Proteger Tu Código, Cualquier Uso Irresponsable Queda Prohibido [ ``ForceOP, Nuke O Ect``]... Herramienta Sin Fines De Lucro 🪷...
 # 
 
-``Nexus : Network 🪷 | Code by zKazen , Edit @edux_gx ``
-# 
 
 # ATENCIÓN 🚨
 > Si Tu Código Ya Esta ¡ OFUZCADO ! No Se Recomienda Que Lo Vallas A Editar O Modificar Ya Que Puede Generar Crasheos o Problemas Con El Código Al Pocketmine ...
+
+ 📎 Soporte En Discord : ( Si Prensentas Error O Algun Bug )
+ 
+ @educraft_100k/eduxz_gx
+ @zKazen
 # 
 # Graficos 🐡
+> Estrellas Code Date 🐬
+
+<a href="https://www.star-history.com/?repos=Apolo1061%2Fitsuki&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Apolo1061/itsuki&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Apolo1061/itsuki&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Apolo1061/itsuki&type=date&legend=top-left" />
+ </picture>
+</a>
+
 <img src="imagen/NexusLogoPagina.png" width="50"/>
+
+# 
+``Nexus : Network 🪷 | Code by zKazen , Edit @edux_gx ``
 </div>
